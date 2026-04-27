@@ -1,0 +1,87 @@
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.exe.config
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.exe
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.pdb
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.AssemblyReference.cache
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DangKy.resources
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Admin.resources
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DangNhap.resources
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_QuanLy.resources
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Properties.Resources.resources
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.GenerateResource.cache
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.CoreCompileInputs.cache
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.exe
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.pdb
+C:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.exe.config
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.AssemblyReference.cache
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.exe.config
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DangKy.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Admin.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DangNhap.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_QuanLy.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Properties.Resources.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.GenerateResource.cache
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.CoreCompileInputs.cache
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.exe
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.pdb
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_HocVien.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DoiMatKhau.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.exe.config
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.exe
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.pdb
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlyhocvien.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlygiaovien.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlynhansu.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_KhuyenMai.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlykhoahoc.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_GiaoVien.resources
+E:\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_GVDiemDanh.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.exe.config
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.exe
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.pdb
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DangKy.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DangNhap.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DoiMatKhau.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_GiaoVien.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_GVDiemDanh.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_HocVien.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_KhuyenMai.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_QuanLy.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlygiaovien.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlyhocvien.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlykhoahoc.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlynhansu.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Properties.Resources.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.exe.config
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Admin.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DangKy.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DangNhap.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_DoiMatKhau.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_GiaoVien.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_GVDiemDanh.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_HocVien.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_KhuyenMai.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_QuanLy.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlygiaovien.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlyhocvien.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlykhoahoc.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Quanlynhansu.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Properties.Resources.resources
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.exe
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.pdb
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.exe.config
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.exe
+C:\Users\DELL\Downloads\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.pdb
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.exe
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\QLHocVienTrungTamTinHoc.pdb
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.frmReportHS.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.frmReportHS1.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_Main.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_HocVien.dje.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\bin\Debug\dje\QLHocVienTrungTamTinHoc.resources.dll
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\dje\QLHocVienTrungTamTinHoc.resources.dll
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.Form_PhanQuyen.resources
+D:\NĂM 3 2025_2026\CÔNG NGHỆ.NET\Đồ án\DoAn_CongNgheNet\QLHocVienTrungTamTinHoc\QLHocVienTrungTamTinHoc\obj\Debug\QLHocVienTrungTamTinHoc.csprojResolveAssemblyReference.cache
